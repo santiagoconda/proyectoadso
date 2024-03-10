@@ -1,0 +1,55 @@
+.container{
+    background-color: blue;
+    width: 400px;
+    height: 350px;
+    margin: auto;
+    text-align: center;
+    color: white;
+    border-radius: 10px;
+    
+    
+}
+
+p{
+    text-align: center;
+    
+    
+}
+
+img{
+    width: 100px;
+    margin: 4px;
+    
+}
+
+.formu{
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    margin: auto;
+    
+    
+    
+}
+
+.formu input{
+    height: 30px;
+    margin: 4px;
+}
+.button-container{
+    text-align: center;
+    
+}
+.button-container button{
+    display: inline-block;
+    margin-right: 10px;
+    margin: 5px; 
+    background-color: blue;
+    color: white;
+    border: none;
+    
+}
+
+a{
+    color: white;
+}
